@@ -1,0 +1,11 @@
+.vehiculos{
+    margin: 5%;
+    padding: 5rem;
+    width: 300px;
+    padding: 0;
+    display: flex; 
+    flex-wrap: wrap;
+}
+.vehiculos img{
+    width: 400px;
+}
